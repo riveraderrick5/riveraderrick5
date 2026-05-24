@@ -1,7 +1,7 @@
-# Hola, soy Derrick Rivera
+<div align="center">
 
-**Senior Data Analyst, Data Scientist** | Mexico City 🇲🇽 | Remoto
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,18,21&height=180&section=header&text=Derrick%20Rivera&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Data%20Analyst,%20Data%20Scientist%20%7C%20BI%20%7C%20Mexico%20City&descAlignY=55&descSize=16" width="100%"/>
+</div>
 
 **Lenguajes**
 
